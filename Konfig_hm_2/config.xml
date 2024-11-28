@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <graphviz_path>E:/graphviz/bin/dot.exe</graphviz_path>
+   <!--   <package_path>E:\maven\spring-petclinic\spring-petclinic-main</package_path> -->
+      <package_path>E:\maven\my-sample-project</package_path>
+</config>
