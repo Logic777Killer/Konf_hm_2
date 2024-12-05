@@ -19,6 +19,14 @@
 
 Все функции визуализатора зависимостей должны быть покрыты тестами. 
 
+### Запуск программы
+
+```bash
+cd:\Users\user\PycharmProjects\Konfig_hm_2
+.venv\Scripts\activate
+python visualizer.py
+```
+
 
 ### Результаты тестов
 
